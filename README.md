@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RiekeNagel
+- 👋 Hi, I’m @Rieke Nagel
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently training Python, Pandas, Jupyter
 - 💞️ I’m looking to collaborate on Data Analytics Projects
